@@ -1,22 +1,27 @@
 [
   {
-    "name":"Turquoise",
+    "name":"Blue Sapphire Gem",
     "id":0,
-    "picture": "https://www.pngarts.com/files/2/Turquoise-Stone-PNG-Download-Image.png"
+    "picture": "./img/blue.gif"
   },
   {
-    "name":"Malachite",
+    "name":"Ruby Gem",
     "id":1,
-    "picture": "https://www.pngarts.com/files/2/Malachite-PNG-Image.png"
+    "picture": "./img/ruby.gif"
   },
   {
-    "name":"Lapis Lazuli",
+    "name":"Purple Gem",
     "id":2,
-    "picture": "https://www.pngarts.com/files/2/Lapis-Lazuli-Free-PNG-Image.png"
+    "picture": "./img/purp.gif"
   },
   {
-    "name":"Quartz",
+    "name":"Emerald Gem",
     "id":3,
-    "picture": "https://i.pinimg.com/originals/7a/1e/8c/7a1e8cbae81363b96096b4c5d0971705.png"
+    "picture": "./img/green.gif"
+  },
+  {
+    "name":"Yellow Gem",
+    "id":4,
+    "picture": "./img/yellow.gif"
   }
 ]

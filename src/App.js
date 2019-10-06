@@ -14,7 +14,7 @@ class App extends Component {
     score: 0, 
     wins: 0, 
     losses: 0, 
-    values: [0,0,0,0],
+    values: [0,0,0,0,0],
   }
 
   componentDidMount = () => {
