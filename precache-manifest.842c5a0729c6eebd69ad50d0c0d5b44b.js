@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/reactCrystalGame/static/css/main.e4ae0842.chunk.css"
   },
   {
-    "revision": "61fbbc1f36a02144d11947b7a132ae3d",
+    "revision": "14401b7c6e44b7ab3133f131f02c08fb",
     "url": "/reactCrystalGame/index.html"
   }
 ];
