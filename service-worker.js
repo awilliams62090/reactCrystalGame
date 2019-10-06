@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactCrystalGame/precache-manifest.0330222e9d6a2bf7c02d6740578db48a.js"
+  "/reactCrystalGame/precache-manifest.a6c1d0bd4e10b1f43b63c766f30156da.js"
 );
 
 workbox.clientsClaim();
